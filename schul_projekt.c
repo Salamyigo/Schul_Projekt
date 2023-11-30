@@ -23,17 +23,19 @@ int main(){
         return 0;
     } 
     
-    printf("\nWillkommen zu den Software für Funktion \n"); //Begrußung
+    printf("\nWillkommen zu den Software für Funktion berechnung \n"); //Begrußung
 
     while (funktion1 != 1 && funktion2 != 2)
     {
        printf("\nBitte die erste funktion auswahlen (1: linear, 2: Quadratisch)\n");
        scanf("%d",&funktion1);
     }
-   while (funktion1 != 1 && funktion2 != 2)
+    while (funktion1 != 1 && funktion2 != 2)
     {
        printf("\nBitte die zweite funktion auswahlen (1: linear, 2: Quadratisch)\n");
        scanf("%d",&funktion2);
+    
+    return 0;
     } 
 }
 
