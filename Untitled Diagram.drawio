@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T19:09:59.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="JsRXqpOcRv_hwdHbTyXj" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T19:11:17.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="5-EcjEkEN8DgMbdiPiEx" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-146" value="Ausgabe: Gemeinsame Schnittpunkt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="384" y="4510" width="120" height="60" as="geometry" />
+          <mxGeometry x="384" y="4490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R0gnXD8ZNua9yusy4dfu-150" target="R0gnXD8ZNua9yusy4dfu-152">
           <mxGeometry relative="1" as="geometry" />
@@ -445,7 +445,7 @@
           <mxGeometry x="374" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-156" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="4601.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="394" y="4581.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R0gnXD8ZNua9yusy4dfu-159" target="R0gnXD8ZNua9yusy4dfu-150">
           <mxGeometry relative="1" as="geometry" />
@@ -611,7 +611,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-229" value="Void Funktion&lt;br&gt;Gemeinsame &lt;br&gt;Schnittpunkt &lt;br&gt;abrufen &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="4370" width="100" height="100" as="geometry" />
+          <mxGeometry x="394" y="4350" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R0gnXD8ZNua9yusy4dfu-233" value="Wiederhole Auswahl" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="204" y="1330" width="130" height="30" as="geometry" />
